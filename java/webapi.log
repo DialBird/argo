@@ -1,4 +1,0 @@
-# Logfile created on 2016-09-30 11:17:43 +0900 by logger.rb/47272
-E, [2016-09-30T11:17:44.032324 #2431] ERROR -- : getaddrinfo: nodename nor servname provided, or not known
-E, [2016-09-30T16:25:10.081072 #4332] ERROR -- : Connection reset by peer
-E, [2016-09-30T16:26:10.029052 #4363] ERROR -- : undefined method `code' for nil:NilClass
